@@ -1,0 +1,12 @@
+<svg width="1024" height="1024" viewBox="-2.5 2.31 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Arte original 17x24, centralizada num quadro quadrado para gerar os ícones -->
+<rect y="3.81458" width="16" height="20" rx="1" fill="#FFA116"/>
+<rect x="1" y="2.81458" width="16" height="20" rx="1" fill="#EFEFEF"/>
+<path d="M8.5 2.81459L5.37671 7.62917L1.99999 2.81458L8.5 2.81459Z" fill="#B4B4B4"/>
+<rect x="3" y="8.81458" width="9" height="1" rx="0.5" fill="#B4B4B4"/>
+<rect x="3" y="17.8146" width="9" height="1" rx="0.5" fill="#B4B4B4"/>
+<rect x="3" y="12.8146" width="6" height="1" rx="0.5" fill="#B4B4B4"/>
+<rect x="3" y="19.8146" width="6" height="1" rx="0.5" fill="#B4B4B4"/>
+<rect x="3" y="10.8146" width="12" height="1" rx="0.5" fill="#B4B4B4"/>
+<rect x="3" y="14.8146" width="12" height="1" rx="0.5" fill="#B4B4B4"/>
+</svg>
